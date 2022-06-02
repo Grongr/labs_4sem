@@ -1,0 +1,9 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Теория}{2}%
+\contentsline {section}{\numberline {2}Экспериментальная установка}{3}%
+\contentsline {section}{\numberline {3}Ход работы}{4}%
+\contentsline {subsection}{\numberline {3.1}1. Определение периода решёток по их пространственному спектру}{4}%
+\contentsline {subsection}{\numberline {3.2}2. Определение периода решёток по изображению, увеличинному с помощью микроскопа}{4}%
+\contentsline {subsection}{\numberline {3.3}3. Определение периода решёток по оценке разрешающей способности микроскопа}{5}%
+\contentsline {subsection}{\numberline {3.4}4. Пространственная фильтрация и мультиплицирование}{7}%
+\contentsline {section}{\numberline {4}Вывод.}{8}%

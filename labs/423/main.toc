@@ -1,0 +1,9 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Цель работы и приборы.}{2}%
+\contentsline {section}{\numberline {2}В работе используются.}{2}%
+\contentsline {section}{\numberline {3}Теоритическая часть.}{2}%
+\contentsline {subsection}{\numberline {3.1}Введение.}{2}%
+\contentsline {subsection}{\numberline {3.2}Описание установки.}{3}%
+\contentsline {subsection}{\numberline {3.3}Зависимость показателя преломления газа от давления и температуры.}{4}%
+\contentsline {section}{\numberline {4}Экспериментальная часть.}{4}%
+\contentsline {section}{\numberline {5}Вывод.}{7}%

@@ -1,0 +1,5 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Теоретическое введение}{2}%
+\contentsline {section}{\numberline {2}Ход работы}{3}%
+\contentsline {section}{\numberline {3}Обработка результатов}{6}%
+\contentsline {section}{\numberline {4}Вывод}{7}%

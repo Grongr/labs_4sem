@@ -1,0 +1,17 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Теоретическое введение}{2}%
+\contentsline {subsection}{\numberline {1.1}Определение направления разрешённой плоскости колебаний поляроида}{2}%
+\contentsline {subsection}{\numberline {1.2}Получение эллиптически поляризованного света}{2}%
+\contentsline {subsection}{\numberline {1.3}Анализ эллиптически поляризованного света}{4}%
+\contentsline {subsection}{\numberline {1.4}Пластинка чувствительного оттенка}{4}%
+\contentsline {subsection}{\numberline {1.5}Интерференция поляризованных лучей}{5}%
+\contentsline {section}{\numberline {2}Ход работы}{6}%
+\contentsline {subsection}{\numberline {2.1}Определение разрешенных направлений поляроида}{6}%
+\contentsline {subsection}{\numberline {2.2}Определение показателя преломления эбонита}{6}%
+\contentsline {subsection}{\numberline {2.3}Исследование стопы}{6}%
+\contentsline {subsection}{\numberline {2.4}Двоякопреломляющие пластины}{7}%
+\contentsline {subsection}{\numberline {2.5}Пластинки $ \lambda /2, \lambda /4 $}{7}%
+\contentsline {subsection}{\numberline {2.6}Быстрая и медленная оси $ \lambda /4 $}{7}%
+\contentsline {subsection}{\numberline {2.7}Интерференция поляризованных лучей}{8}%
+\contentsline {subsection}{\numberline {2.8}Эллиптически поляризованная волна}{8}%
+\contentsline {section}{\numberline {3}Вывод}{8}%

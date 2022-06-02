@@ -1,0 +1,8 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Цель работы и приборы.}{2}%
+\contentsline {section}{\numberline {2}Теоритическая вводная.}{2}%
+\contentsline {section}{\numberline {3}Ход работы}{4}%
+\contentsline {subsection}{\numberline {3.1}Юстировка гониометра и установка призмы}{4}%
+\contentsline {subsection}{\numberline {3.2}Измерение преломляющего угла}{4}%
+\contentsline {subsection}{\numberline {3.3}Разрешающая способность}{5}%
+\contentsline {section}{\numberline {4}Вывод}{7}%

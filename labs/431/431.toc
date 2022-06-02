@@ -1,0 +1,6 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Цель работы}{2}%
+\contentsline {section}{\numberline {2}Дифракция Френеля на щели}{2}%
+\contentsline {section}{\numberline {3}Дифракция Фраунгофера на щели}{3}%
+\contentsline {section}{\numberline {4}Дифракция Фраунгофера на двух щелях}{4}%
+\contentsline {section}{\numberline {5}Вывод}{5}%

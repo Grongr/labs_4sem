@@ -1,0 +1,59 @@
+% (c) Egor Osipov
+
+\documentclass[a4paper,12pt]{article} % тип документа (report, book)
+\usepackage[14pt]{extsizes}
+\usepackage[left=2cm,right=2cm, top=2cm,bottom=2cm,bindingoffset=0cm]{geometry} % Настройки документа
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{tikz} 
+
+%  Русский язык
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+% Просто смайлики
+\usepackage{wasysym}
+
+%Вставка картинок
+\usepackage{graphicx}
+\graphicspath{./}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usepackage{float}
+
+% Настройка абзацев
+\usepackage{indentfirst}
+%\setlength{\parindent}{5ex}
+%\setlength{\parskip}{1em}
+
+\begin{document} % начало документа
+
+%Заговолок
+\begin{titlepage}
+\begin{center}
+	\large{Московский физико-технический институт}\\
+	\vspace{100px}
+	\LARGE{Работа 4.1.1}\\
+	\LARGE{Изучение центрированных оптических систем.}\\
+	\vspace{30px}
+	\includegraphics[scale = 0.3]{fakt_logo.png}\\
+\end{center}
+
+\vfill
+\begin{flushright}
+	\text{Осипов Егор. Б03-005}\\
+	\text{г. Долгопрудный}
+\end{flushright}
+\end{titlepage}
+
+\newpage
+
+% \tableofcontents
+
+\newpage
+
+\end{document}
